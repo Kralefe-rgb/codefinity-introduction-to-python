@@ -14,6 +14,7 @@ pasta_price = "$5.40"
 message="We have " +candy1+ " for " +bubblegum_price+" in the " +category1
 message2 = "We have " + candy2 + " for " + chocolate_price + " in the " + category1
 message3 = "We have " + dry_goods + " for " + pasta_price + " in the " + category2
-print("We have " + candy1 + " for " + bubblegum_price + " in the " + category1)
-print("We have " + candy2 + " for " + chocolate_price + " in the " + category1)
-print("We have " + dry_goods + " for " + pasta_price + " in the " + category2)
+
+print(message)
+print(message2)
+print(message3)
